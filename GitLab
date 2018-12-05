@@ -1,0 +1,5 @@
+GitLab
+
+create repo and submit commits:
+git remote add origin git@gitlab.rnd.gic.ericsson.se:ewenqli/gitweb.git
+git push -u origin --all
